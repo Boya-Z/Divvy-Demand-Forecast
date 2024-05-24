@@ -2,12 +2,12 @@
 
 1. Background
 
-Explain the concept of bike-sharing systems and introduce Divvy Bikes as a significant player in urban mobility.
+* Explain the concept of bike-sharing systems and introduce Divvy Bikes as a significant player in urban mobility.
 Discuss the relevance of predicting bike demand (e.g., for maintenance, availability, and strategic deployment).
 
 3. Data Overview
 
-Mention the source and range of the data (March 2020 to March 2024).
+* Mention the source and range of the data (March 2020 to March 2024).
 Types of bikes covered: classic, electric, and docked.
 
 3. Models Used
